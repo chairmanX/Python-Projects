@@ -1,4 +1,11 @@
 # topic-modeling
+Python Projects
+
+############################
+
+Project #1: 
+
+
 LDA Topic Modeling 
 
 Latent Dirichlet Allocation for classifying text into topics. 
